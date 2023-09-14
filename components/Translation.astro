@@ -1,0 +1,13 @@
+---
+import { getLangFromUrl, useTranslations, interpolate } from "../utils";
+
+const lang = getLangFromUrl(Astro.url);
+
+interface Props {
+  i18n: string;
+}
+const { i18n } = Astro.props;
+const referenceString = await Astro.slots.render("default");
+---
+
+<Fragment set:html={interpolate(i18n, referenceString, lang)} />

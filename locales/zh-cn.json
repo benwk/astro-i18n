@@ -1,0 +1,33 @@
+{
+  "home": {
+    "subtitle": "<0>洞见</0>团队，混动<1>协作</1>无界。",
+    "instructions": "我们的服务正在建设中。 <0>敬请期待！</0><br /><1>关键价值：</1> 数据驱动 · 效率优先 · 长期主义 · 拒绝捷径 · 保持渴望"
+  },
+  "contact": {
+    "title": "联系我们",
+    "body": "发送 hi@d3lay.com 邮件立即了解更多关于 d3lay 混动协作平台 ❤️。"
+  },
+  "copyright": {
+    "body": "2023 Delay Technologies 版权所有，保留一切权利。"
+  },
+  "navigation": {
+    "capsuleExtensions": "胶囊应用",
+    "openSource": "开源社区",
+    "pricing": "定价",
+    "contactUs": "联系我们",
+    "getEarlyAccess": "立即体验"
+  },
+  "footer": {
+    "aboutUs": "关于我们",
+    "policies": "声明与条款",
+    "policyNotice": "隐私政策",
+    "termsOfService": "使用条款",
+    "subscribeForUpdates": "订阅我们",
+    "languages": "切换语言",
+    "cookie": "Cookie",
+    "cookiePolicy": "Cookie 声明",
+    "emailAddress": "邮箱",
+    "subscribe": "订阅",
+    "copyright": "Copyright Delay Limited 2023"
+  }
+}

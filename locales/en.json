@@ -1,0 +1,34 @@
+{
+  "home": {
+    "title": "DΞLΛY",
+    "subtitle": "All Team <0>Insights</0>, One Hybrid <1>Profile</1>.",
+    "instructions": "Our services are under construction. <0>Stay tuned!</0><br /><1>Key values:</1> Data-driven, Efficient, Long-termism, Anti-shortcut and Yearning"
+  },
+  "contact": {
+    "title": "Contact us",
+    "body": "Say hi@d3lay.com to learn about our hybrid profile with ❤️."
+  },
+  "copyright": {
+    "body": "2023 Copyright Delay Technologies. All rights reserved."
+  },
+  "navigation": {
+    "capsuleExtensions": "Capsule extensions",
+    "openSource": "Open source",
+    "pricing": "Pricing",
+    "contactUs": "Contact us",
+    "getEarlyAccess": "Get early access"
+  },
+  "footer": {
+    "aboutUs": "AboutUs",
+    "policies": "Policies",
+    "policyNotice": "Policy Notice",
+    "termsOfService": "Terms of Service",
+    "subscribeForUpdates": "Subscribe for updates",
+    "languages": "Languages",
+    "cookie": "Cookie",
+    "cookiePolicy": "Cookie Policy",
+    "emailAddress": "Email Address",
+    "subscribe": "subscribe",
+    "copyright": "Copyright Delay Limited 2023"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "astro-i18n",
+  "description": "A light weight i18n component for Astro",
+  "version": "0.0.1",
+  "type": "module",
+  "bin": {
+    "astro-i18n": "./cli/index.js"
+  },
+  "scripts": {
+    "dev": "node ./src/i18n/cli/index.js && astro dev",
+    "start": "node ./src/i18n/cli/index.js && astro dev",
+    "build": "node ./src/i18n/cli/index.js && astro build",
+    "preview": "node ./src/i18n/cli/index.js && astro preview",
+    "astro": "node ./src/i18n/cli/index.js && astro",
+    "lint": "eslint './src/**/*.{js,astro}'",
+    "test": "vitest run --coverage",
+    "release": "release-it",
+    "translate": "node ./src/i18n/cli/index.js"
+  },
+  "dependencies": {
+    "astro": "^3.0.12"
+  },
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^7.0.0",
+    "@typescript-eslint/parser": "^6.4.1",
+    "@vitest/coverage-v8": "^0.34.3",
+    "eslint": "^8.47.0",
+    "eslint-plugin-astro": "^0.28.0",
+    "release-it": "^16.1.5",
+    "vitest": "^0.34.3"
+  }
+}
